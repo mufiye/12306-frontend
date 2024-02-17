@@ -1,4 +1,4 @@
-# 12306-fronend
+# 12306-frontend
 
 ## Project setup
 ```
